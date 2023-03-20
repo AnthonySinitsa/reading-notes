@@ -11,4 +11,4 @@ What growth mindset means to me:
 2. 
 3. 
 
-Link to my Github Portfolio: [https://github.com/AnthonySinits](https://github.com/AnthonySinitsa)
+Link to my Github Portfolio: [https://github.com/AnthonySinitsa](https://github.com/AnthonySinitsa)
