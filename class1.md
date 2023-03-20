@@ -7,6 +7,6 @@
 3. You need the `#` to make a heading
     1. You need one `#` to make the largest type of heading
     2. You need six `#` to make the smallest type of heading
-4. Best practice for bold or italic is surrounding your text using Asterics. 
-5. To make a link in mardown you surround your link in paranthesis. 
+4. Best practice for bold or italic is surrounding your text using Asterik. 
+5. To make a link in markdown you surround your link in parenthesis. 
 6. `*` `+` `-` are the 3 symbols for creating bulleted lists. 
