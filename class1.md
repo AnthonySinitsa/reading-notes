@@ -1,5 +1,12 @@
 # Notes about markdown
 
-`& dragonfly` does nothing
+1. Markdown is a markup language that you use for formatting elements on text files. 
 
-`# Level 1 Heading` makes a level one heading
+2. Markdown is used for everything such as websites, documents, email, etc. and will work on any OS. 
+
+3. You need the `#` to make a heading
+    1. You need one `#` to make the largest type of heading
+    2. You need six `#` to make the smallest type of heading
+4. Best practice for bold or italic is surrounding your text using Asterics. 
+5. To make a link in mardown you surround your link in paranthesis. 
+6. `*` `+` `-` are the 3 symbols for creating bulleted lists. 
