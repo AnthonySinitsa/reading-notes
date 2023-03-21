@@ -19,6 +19,7 @@ Link to my *Github Portfolio*: [https://github.com/AnthonySinitsa](https://githu
 ### Code 102 Reading Notes
 
 [class1 - setup accounts](102/102-1.md)
+
 [class2 - growth mindset](102/102-2.md)
 
 ### Code 201 Reading Notes
