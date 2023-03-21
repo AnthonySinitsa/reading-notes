@@ -18,10 +18,50 @@ Link to my *Github Portfolio*: [https://github.com/AnthonySinitsa](https://githu
 
 ### Code 102 Reading Notes
 
-[class1 - setup accounts](102/102-1.md)
+[class 1 - setupAccounts](102/102-1.md)
 
-[class2 - growth mindset](102/102-2.md)
+[class 2 - growthMindset](102/102-2.md)
+
+[class 3 - gitIntro](102/102-3.md)
+
+[class 4 - placeHolder](102/102-4.md)
+
+[class 5 - placeHolder](102/102-5.md)
+
+[class 6 - placeHolder](102/102-6.md)
+
+[class 7 - placeHolder](102/102-7.md)
+
+[class 8 - placeHolder](102/102-8.md)
 
 ### Code 201 Reading Notes
 
-[class1 - ](201/201-1.md)
+[class 1 - placeHolder](201/201-1.md)
+
+[class 2 - placeHolder](201/201-2.md)
+
+[class 3 - placeHolder](201/201-3.md)
+
+[class 4 - placeHolder](201/201-4.md)
+
+[class 5 - placeHolder](201/201-5.md)
+
+[class 6 - placeHolder](201/201-6.md)
+
+[class 7 - placeHolder](201/201-7.md)
+
+[class 8 - placeHolder](201/201-8.md)
+
+[class 9 - placeHolder](201/201-9.md)
+
+[class 10 - placeHolder](201/201-10.md)
+
+[class 11 - placeHolder](201/201-11.md)
+
+[class 12 - placeHolder](201/201-12.md)
+
+[class 13 - placeHolder](201/201-13.md)
+
+[class 14 - placeHolder](201/201-14.md)
+
+[class 15 - placeHolder](201/201-15.md)
