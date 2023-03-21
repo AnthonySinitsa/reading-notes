@@ -12,4 +12,4 @@ To me Growth Mindset means to always keep a positive mental attitude and to alwa
 2. Keep a consistent schedule
 3. Having peer criticism(hopefully constructive)
 
-Link to my Github Portfolio: [https://github.com/AnthonySinitsa](https://github.com/AnthonySinitsa)
+Link to my *Github Portfolio*: [https://github.com/AnthonySinitsa](https://github.com/AnthonySinitsa)
