@@ -1,4 +1,5 @@
 # reading-notes
+
 ## My Code Fellows reading journal
 
 My name is Anthony, I was in a university taking computer science but the my expectations wasn't what I wanted it to be. I have heard good things about Code Fellows and wanted to do it, so I am super excited to start this path in my life.
