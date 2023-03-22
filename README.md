@@ -24,7 +24,7 @@ Link to my *Github Portfolio*: [https://github.com/AnthonySinitsa](https://githu
 
 [class 3 - gitIntro](102/102-3.md)
 
-[class 4 - placeHolder](102/102-4.md)
+[class 4 - HTML/Wireframe](102/102-4.md)
 
 [class 5 - placeHolder](102/102-5.md)
 
