@@ -4,7 +4,7 @@
 
 My name is Anthony, I was in a university taking computer science but the my expectations wasn't what I wanted it to be. I have heard good things about Code Fellows and wanted to do it, so I am super excited to start this path in my life.
 
-To me Growth Mindset means to always keep a positive mental attitude and to always keep a consistent schedule of a goal you are trying to accomplish. 
+To me Growth Mindset means to always keep a positive mental attitude and to always keep a consistent schedule of a goal you are trying to accomplish.
 
 **3 Reminders To Stay in a Growth Mindset:**
 
@@ -12,7 +12,7 @@ To me Growth Mindset means to always keep a positive mental attitude and to alwa
 2. Keep a consistent schedule
 3. Having peer criticism(hopefully constructive)
 
-Link to my *Github Portfolio*: [https://github.com/AnthonySinitsa](https://github.com/AnthonySinitsa)
+Link to my _Github Portfolio_: [https://github.com/AnthonySinitsa](https://github.com/AnthonySinitsa)
 
 ## index
 
@@ -26,13 +26,13 @@ Link to my *Github Portfolio*: [https://github.com/AnthonySinitsa](https://githu
 
 [class 4 - HTML/Wireframe](102/102-4.md)
 
-[class 5 - placeHolder](102/102-5.md)
+[class 5 - what is css](102/102-5.md)
 
-[class 6 - placeHolder](102/102-6.md)
+[class 6 - javascript](102/102-6.md)
 
-[class 7 - placeHolder](102/102-7.md)
+[class 7 - programming with javascript](102/102-7.md)
 
-[class 8 - placeHolder](102/102-8.md)
+[class 8 - operators and loops](102/102-8.md)
 
 ### Code 201 Reading Notes
 
