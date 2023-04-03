@@ -36,7 +36,7 @@ Link to my _Github Portfolio_: [https://github.com/AnthonySinitsa](https://githu
 
 [class 1 - 102 review](201/201-1.md)
 
-[class 2 - placeHolder](201/201-2.md)
+[class 2 - basics of html, css and js](201/201-2.md)
 
 [class 3 - placeHolder](201/201-3.md)
 
