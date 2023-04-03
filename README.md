@@ -14,9 +14,7 @@ To me Growth Mindset means to always keep a positive mental attitude and to alwa
 
 Link to my _Github Portfolio_: [https://github.com/AnthonySinitsa](https://github.com/AnthonySinitsa)
 
-## index
-
-### Code 102 Reading Notes
+## Code 102 - Intro to Software Development(Reading Notes)
 
 [class 1 - setupAccounts](102/102-1.md)
 
@@ -34,7 +32,7 @@ Link to my _Github Portfolio_: [https://github.com/AnthonySinitsa](https://githu
 
 [class 8 - operators and loops](102/102-8.md)
 
-### Code 201 Reading Notes
+## Code 201 Foundations of Software Development(Reading Notes)
 
 [class 1 - placeHolder](201/201-1.md)
 
@@ -65,3 +63,7 @@ Link to my _Github Portfolio_: [https://github.com/AnthonySinitsa](https://githu
 [class 14 - placeHolder](201/201-14.md)
 
 [class 15 - placeHolder](201/201-15.md)
+
+## Code 301 - Intermediate Software Development(Reading Notes)
+
+## Code 401 - Advanced Software Development(Reading Notes)
