@@ -34,7 +34,7 @@ Link to my _Github Portfolio_: [https://github.com/AnthonySinitsa](https://githu
 
 ## Code 201 Foundations of Software Development(Reading Notes)
 
-[class 1 - placeHolder](201/201-1.md)
+[class 1 - 102 review](201/201-1.md)
 
 [class 2 - placeHolder](201/201-2.md)
 
