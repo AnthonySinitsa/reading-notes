@@ -40,7 +40,7 @@ Link to my _Github Portfolio_: [https://github.com/AnthonySinitsa](https://githu
 
 [class 3 - html css and js](201/201-3.md)
 
-[class 4 - placeHolder](201/201-4.md)
+[class 4 - html links, js functions, and intro to css layout](201/201-4.md)
 
 [class 5 - placeHolder](201/201-5.md)
 
