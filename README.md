@@ -42,7 +42,7 @@ Link to my _Github Portfolio_: [https://github.com/AnthonySinitsa](https://githu
 
 [class 4 - html links, js functions, and intro to css layout](201/201-4.md)
 
-[class 5 - placeHolder](201/201-5.md)
+[class 5 - image, color, text](201/201-5.md)
 
 [class 6 - placeHolder](201/201-6.md)
 
