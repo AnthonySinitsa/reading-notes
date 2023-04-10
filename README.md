@@ -44,7 +44,7 @@ Link to my _Github Portfolio_: [https://github.com/AnthonySinitsa](https://githu
 
 [class 5 - image, color, text](201/201-5.md)
 
-[class 6 - placeHolder](201/201-6.md)
+[class 6 - problem dowmain, objects, and the DOM](201/201-6.md)
 
 [class 7 - placeHolder](201/201-7.md)
 
