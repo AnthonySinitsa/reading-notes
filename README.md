@@ -50,7 +50,7 @@ Link to my _Github Portfolio_: [https://github.com/AnthonySinitsa](https://githu
 
 [class 8 - css layout](201/201-8.md)
 
-[class 9 - placeHolder](201/201-9.md)
+[class 9 - forms and js events](201/201-9.md)
 
 [class 10 - placeHolder](201/201-10.md)
 
