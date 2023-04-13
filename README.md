@@ -52,7 +52,7 @@ Link to my _Github Portfolio_: [https://github.com/AnthonySinitsa](https://githu
 
 [class 9 - forms and js events](201/201-9.md)
 
-[class 10 - placeHolder](201/201-10.md)
+[class 10 - debugging](201/201-10.md)
 
 [class 11 - placeHolder](201/201-11.md)
 
