@@ -54,7 +54,7 @@ Link to my _Github Portfolio_: [https://github.com/AnthonySinitsa](https://githu
 
 [class 10 - debugging](201/201-10.md)
 
-[class 11 - placeHolder](201/201-11.md)
+[class 11 - audio, video, images](201/201-11.md)
 
 [class 12 - placeHolder](201/201-12.md)
 
