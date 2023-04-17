@@ -56,7 +56,7 @@ Link to my _Github Portfolio_: [https://github.com/AnthonySinitsa](https://githu
 
 [class 11 - audio, video, images](201/201-11.md)
 
-[class 12 - placeHolder](201/201-12.md)
+[class 12 - chart.js, canvas](201/201-12.md)
 
 [class 13 - placeHolder](201/201-13.md)
 
