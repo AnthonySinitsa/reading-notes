@@ -58,7 +58,7 @@ Link to my _Github Portfolio_: [https://github.com/AnthonySinitsa](https://githu
 
 [class 12 - chart.js, canvas](201/201-12.md)
 
-[class 13 - placeHolder](201/201-13.md)
+[class 13 - local storage](201/201-13.md)
 
 [class 14 - placeHolder](201/201-14.md)
 
