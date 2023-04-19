@@ -60,7 +60,7 @@ Link to my _Github Portfolio_: [https://github.com/AnthonySinitsa](https://githu
 
 [class 13 - local storage](201/201-13.md)
 
-[class 14 - placeHolder](201/201-14.md)
+[class 14 - css transforms and transitions](201/201-14.md)
 
 [class 15 - placeHolder](201/201-15.md)
 
