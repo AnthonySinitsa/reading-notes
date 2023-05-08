@@ -68,7 +68,7 @@ Link to my _Github Portfolio_: [https://github.com/AnthonySinitsa](https://githu
 
 [class 1 - introduction to react and components](301/301-1.md)
 
-[class 2 - placeHolder](301/301-2.md)
+[class 2 - state and props](301/301-2.md)
 
 [class 3 - placeHolder](301/301-3.md)
 
