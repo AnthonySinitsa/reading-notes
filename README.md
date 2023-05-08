@@ -66,4 +66,34 @@ Link to my _Github Portfolio_: [https://github.com/AnthonySinitsa](https://githu
 
 ## Code 301 - Intermediate Software Development(Reading Notes)
 
+[class 1 - introduction to react and components](301/301-1.md)
+
+[class 2 - placeHolder](301/301-2.md)
+
+[class 3 - placeHolder](301/301-3.md)
+
+[class 4 - placeHolder](301/301-4.md)
+
+[class 5 - placeHolder](301/301-5.md)
+
+[class 6 - placeHolder](301/301-6.md)
+
+[class 7 - placeHolder](301/301-7.md)
+
+[class 8 - placeHolder](301/301-8.md)
+
+[class 9 - placeHolder](301/301-9.md)
+
+[class 10 - placeHolder](301/301-10.md)
+
+[class 11 - placeHolder](301/301-11.md)
+
+[class 12 - placeHolder](301/301-12.md)
+
+[class 13 - placeHolder](301/301-13.md)
+
+[class 14 - placeHolder](301/301-14.md)
+
+[class 15 - placeHolder](301/301-15.md)
+
 ## Code 401 - Advanced Software Development(Reading Notes)
