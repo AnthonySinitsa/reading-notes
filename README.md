@@ -72,7 +72,7 @@ Link to my _Github Portfolio_: [https://github.com/AnthonySinitsa](https://githu
 
 [class 3 - passing functions as props](301/301-3.md)
 
-[class 4 - placeHolder](301/301-4.md)
+[class 4 - react and forms](301/301-4.md)
 
 [class 5 - placeHolder](301/301-5.md)
 
