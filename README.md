@@ -74,7 +74,7 @@ Link to my _Github Portfolio_: [https://github.com/AnthonySinitsa](https://githu
 
 [class 4 - react and forms](301/301-4.md)
 
-[class 5 - placeHolder](301/301-5.md)
+[class 5 - putting it all together](301/301-5.md)
 
 [class 6 - placeHolder](301/301-6.md)
 
