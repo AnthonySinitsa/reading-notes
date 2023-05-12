@@ -76,7 +76,7 @@ Link to my _Github Portfolio_: [https://github.com/AnthonySinitsa](https://githu
 
 [class 5 - putting it all together](301/301-5.md)
 
-[class 6 - placeHolder](301/301-6.md)
+[class 6 - REST](301/301-6.md)
 
 [class 7 - placeHolder](301/301-7.md)
 
