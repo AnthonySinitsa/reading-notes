@@ -82,7 +82,7 @@ Link to my _Github Portfolio_: [https://github.com/AnthonySinitsa](https://githu
 
 [class 8 - APIs](301/301-8.md)
 
-[class 9 - placeHolder](301/301-9.md)
+[class 9 - functional programming](301/301-9.md)
 
 [class 10 - placeHolder](301/301-10.md)
 
