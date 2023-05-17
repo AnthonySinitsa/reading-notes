@@ -80,7 +80,7 @@ Link to my _Github Portfolio_: [https://github.com/AnthonySinitsa](https://githu
 
 [class 7 - NODE.JS](301/301-7.md)
 
-[class 8 - placeHolder](301/301-8.md)
+[class 8 - APIs](301/301-8.md)
 
 [class 9 - placeHolder](301/301-9.md)
 
