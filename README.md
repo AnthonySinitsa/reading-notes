@@ -84,7 +84,7 @@ Link to my _Github Portfolio_: [https://github.com/AnthonySinitsa](https://githu
 
 [class 9 - functional programming](301/301-9.md)
 
-[class 10 - placeHolder](301/301-10.md)
+[class 10 - in memory storage](301/301-10.md)
 
 [class 11 - placeHolder](301/301-11.md)
 
