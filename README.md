@@ -88,7 +88,7 @@ Link to my _Github Portfolio_: [https://github.com/AnthonySinitsa](https://githu
 
 [class 11 - mongoDB and mongoose](301/301-11.md)
 
-[class 12 - placeHolder](301/301-12.md)
+[class 12 - CRUD](301/301-12.md)
 
 [class 13 - placeHolder](301/301-13.md)
 
