@@ -94,6 +94,6 @@ Link to my _Github Portfolio_: [https://github.com/AnthonySinitsa](https://githu
 
 [class 14 - diversity, equity, inclusion, and belonging](301/301-14.md)
 
-[class 15 - placeHolder](301/301-15.md)
+[class 15 - authentication](301/301-15.md)
 
 ## Code 401 - Advanced Software Development(Reading Notes)
