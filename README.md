@@ -97,3 +97,63 @@ Link to my _Github Portfolio_: [https://github.com/AnthonySinitsa](https://githu
 [class 15 - authentication](301/301-15.md)
 
 ## Code 401 - Advanced Software Development(Reading Notes)
+
+[class 1 - placeHolder](401/401-1.md)
+
+[class 2 - placeHolder](401/401-2.md)
+
+[class 3 - placeHolder](401/401-3.md)
+
+[class 4 - placeHolder](401/401-4.md)
+
+[class 5 - placeHolder](401/401-5.md)
+
+[class 6 - placeHolder](401/401-6.md)
+
+[class 7 - placeHolder](401/401-7.md)
+
+[class 8 - placeHolder](401/401-8.md)
+
+[class 9 - placeHolder](401/401-9.md)
+
+[class 10 - placeHolder](401/401-10.md)
+
+[class 11 - placeHolder](401/401-11.md)
+
+[class 12 - placeHolder](401/401-12.md)
+
+[class 13 - placeHolder](401/401-13.md)
+
+[class 14 - placeHolder](401/401-14.md)
+
+[class 15 - placeHolder](401/401-15.md)
+
+[class 16 - placeHolder](401/401-16.md)
+
+[class 17 - placeHolder](401/401-17.md)
+
+[class 18 - placeHolder](401/401-18.md)
+
+[class 19 - placeHolder](401/401-19.md)
+
+[class 20 - placeHolder](401/401-20.md)
+
+[class 21 - placeHolder](401/401-21.md)
+
+[class 22 - placeHolder](401/401-22.md)
+
+[class 23 - placeHolder](401/401-23.md)
+
+[class 24 - placeHolder](401/401-24.md)
+
+[class 25 - placeHolder](401/401-25.md)
+
+[class 26 - placeHolder](401/401-26.md)
+
+[class 27 - placeHolder](401/401-27.md)
+
+[class 28 - placeHolder](401/401-28.md)
+
+[class 29 - placeHolder](401/401-29.md)
+
+[class 30 - placeHolder](401/401-30.md)
