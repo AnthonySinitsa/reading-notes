@@ -100,7 +100,7 @@ Link to my _Github Portfolio_: [https://github.com/AnthonySinitsa](https://githu
 
 [class 1 - reading](401/401-1.md)
 
-[class 2 - placeHolder](401/401-2.md)
+[class 2 - testing and modules](401/401-2.md)
 
 [class 3 - placeHolder](401/401-3.md)
 
