@@ -98,7 +98,7 @@ Link to my _Github Portfolio_: [https://github.com/AnthonySinitsa](https://githu
 
 ## Code 401 - Advanced Software Development(Reading Notes)
 
-[class 1 - placeHolder](401/401-1.md)
+[class 1 - reading](401/401-1.md)
 
 [class 2 - placeHolder](401/401-2.md)
 
