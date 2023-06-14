@@ -104,7 +104,7 @@ Link to my _Github Portfolio_: [https://github.com/AnthonySinitsa](https://githu
 
 [class 3 - fileIO and Exceptions](401/401-3.md)
 
-[class 4 - placeHolder](401/401-4.md)
+[class 4 - classes and objects](401/401-4.md)
 
 [class 5 - placeHolder](401/401-5.md)
 
