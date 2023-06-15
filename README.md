@@ -106,7 +106,7 @@ Link to my _Github Portfolio_: [https://github.com/AnthonySinitsa](https://githu
 
 [class 4 - classes and objects](401/401-4.md)
 
-[class 5 - placeHolder](401/401-5.md)
+[class 5 - teaching](401/401-5.md)
 
 [class 6 - placeHolder](401/401-6.md)
 
