@@ -112,7 +112,7 @@ Link to my _Github Portfolio_: [https://github.com/AnthonySinitsa](https://githu
 
 [class 7 - ten thousand 2](401/401-7.md)
 
-[class 8 - placeHolder](401/401-8.md)
+[class 8 - ten thousand 3](401/401-8.md)
 
 [class 9 - placeHolder](401/401-9.md)
 
