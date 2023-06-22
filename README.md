@@ -116,7 +116,7 @@ Link to my _Github Portfolio_: [https://github.com/AnthonySinitsa](https://githu
 
 [class 9 - ten thousand 4](401/401-9.md)
 
-[class 10 - placeHolder](401/401-10.md)
+[class 10 - stacks and queues](401/401-10.md)
 
 [class 11 - placeHolder](401/401-11.md)
 
