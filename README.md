@@ -120,7 +120,7 @@ Link to my _Github Portfolio_: [https://github.com/AnthonySinitsa](https://githu
 
 [class 11 - Data analyse](401/401-11.md)
 
-[class 12 - placeHolder](401/401-12.md)
+[class 12 - topic](401/401-12.md)
 
 [class 13 - placeHolder](401/401-13.md)
 
