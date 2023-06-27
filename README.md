@@ -122,7 +122,7 @@ Link to my _Github Portfolio_: [https://github.com/AnthonySinitsa](https://githu
 
 [class 12 - topic](401/401-12.md)
 
-[class 13 - placeHolder](401/401-13.md)
+[class 13 - linear regressions](401/401-13.md)
 
 [class 14 - placeHolder](401/401-14.md)
 
