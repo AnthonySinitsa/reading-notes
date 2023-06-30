@@ -128,7 +128,7 @@ Link to my _Github Portfolio_: [https://github.com/AnthonySinitsa](https://githu
 
 [class 15 - trees](401/401-15.md)
 
-[class 16 - placeHolder](401/401-16.md)
+[class 16 - serverless runctions](401/401-16.md)
 
 [class 17 - placeHolder](401/401-17.md)
 
