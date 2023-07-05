@@ -132,7 +132,7 @@ Link to my _Github Portfolio_: [https://github.com/AnthonySinitsa](https://githu
 
 [class 17 - web scaping](401/401-17.md)
 
-[class 18 - DOESN'T EXIST](401/401-18.md)
+[class 18 - cryptography](401/401-18.md)
 
 [class 19 - automation](401/401-19.md)
 
