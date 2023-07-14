@@ -148,7 +148,7 @@ Link to my _Github Portfolio_: [https://github.com/AnthonySinitsa](https://githu
 
 [class 25 - placeHolder](401/401-25.md)
 
-[class 26 - placeHolder](401/401-26.md)
+[class 26 - intro to Django](401/401-26.md)
 
 [class 27 - placeHolder](401/401-27.md)
 
