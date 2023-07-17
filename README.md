@@ -136,18 +136,6 @@ Link to my _Github Portfolio_: [https://github.com/AnthonySinitsa](https://githu
 
 [class 19 - automation](401/401-19.md)
 
-[class 20 - placeHolder](401/401-20.md)
-
-[class 21 - placeHolder](401/401-21.md)
-
-[class 22 - placeHolder](401/401-22.md)
-
-[class 23 - placeHolder](401/401-23.md)
-
-[class 24 - placeHolder](401/401-24.md)
-
-[class 25 - placeHolder](401/401-25.md)
-
 [class 26 - intro to Django](401/401-26.md)
 
 [class 27 - placeHolder](401/401-27.md)
