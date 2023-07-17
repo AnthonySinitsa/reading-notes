@@ -146,6 +146,32 @@ Link to my _Github Portfolio_: [https://github.com/AnthonySinitsa](https://githu
 
 [class 30 - placeHolder](401/401-30.md)
 
+[class 31 - placeHolder](401/401-31.md)
+
+[class 32 - placeHolder](401/401-32.md)
+
+[class 33 - placeHolder](401/401-33.md)
+
+[class 34 - placeHolder](401/401-34.md)
+
+[class 35 - placeHolder](401/401-35.md)
+
+[class 36 - placeHolder](401/401-36.md)
+
+[class 37 - placeHolder](401/401-37.md)
+
+[class 38 - placeHolder](401/401-38.md)
+
+[class 39 - placeHolder](401/401-39.md)
+
+[class 40 - placeHolder](401/401-40.md)
+
+[class 41 - placeHolder](401/401-41.md)
+
+[class 42 - placeHolder](401/401-42.md)
+
+[class 43 - placeHolder](401/401-43.md)
+
 [preRead](401/401-preRead.md)
 
 [terminalPractice](401/401-Terminal.md)
