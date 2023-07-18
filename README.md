@@ -138,9 +138,9 @@ Link to my _Github Portfolio_: [https://github.com/AnthonySinitsa](https://githu
 
 [class 26 - intro to Django](401/401-26.md)
 
-[class 27 - placeHolder](401/401-27.md)
+[class 27 - django models](401/401-27.md)
 
-[class 28 - placeHolder](401/401-28.md)
+[class 28 - django CRUD and Forms](401/401-28.md)
 
 [class 29 - placeHolder](401/401-29.md)
 
