@@ -142,7 +142,7 @@ Link to my _Github Portfolio_: [https://github.com/AnthonySinitsa](https://githu
 
 [class 28 - django CRUD and Forms](401/401-28.md)
 
-[class 29 - placeHolder](401/401-29.md)
+[class 29 - django custome user](401/401-29.md)
 
 [class 30 - placeHolder](401/401-30.md)
 
