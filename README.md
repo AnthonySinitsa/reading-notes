@@ -144,7 +144,7 @@ Link to my _Github Portfolio_: [https://github.com/AnthonySinitsa](https://githu
 
 [class 29 - django custome user](401/401-29.md)
 
-[class 30 - placeHolder](401/401-30.md)
+[class 30 - hash tables](401/401-30.md)
 
 [class 31 - placeHolder](401/401-31.md)
 
