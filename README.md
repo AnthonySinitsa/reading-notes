@@ -148,7 +148,7 @@ Link to my _Github Portfolio_: [https://github.com/AnthonySinitsa](https://githu
 
 [class 31 - django REST framework and docker](401/401-31.md)
 
-[class 32 - placeHolder](401/401-32.md)
+[class 32 - permission and postgresql](401/401-32.md)
 
 [class 33 - placeHolder](401/401-33.md)
 
