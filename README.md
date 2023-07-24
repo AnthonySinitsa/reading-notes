@@ -146,7 +146,7 @@ Link to my _Github Portfolio_: [https://github.com/AnthonySinitsa](https://githu
 
 [class 30 - hash tables](401/401-30.md)
 
-[class 31 - placeHolder](401/401-31.md)
+[class 31 - django REST framework and docker](401/401-31.md)
 
 [class 32 - placeHolder](401/401-32.md)
 
