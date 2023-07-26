@@ -152,7 +152,7 @@ Link to my _Github Portfolio_: [https://github.com/AnthonySinitsa](https://githu
 
 [class 33 - authentication and production server](401/401-33.md)
 
-[class 34 - placeHolder](401/401-34.md)
+[class 34 - API deployment](401/401-34.md)
 
 [class 35 - placeHolder](401/401-35.md)
 
