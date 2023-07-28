@@ -156,7 +156,7 @@ Link to my _Github Portfolio_: [https://github.com/AnthonySinitsa](https://githu
 
 [class 35 - graphs](401/401-35.md)
 
-[class 36 - placeHolder](401/401-36.md)
+[class 36 - DSA Review](401/401-36.md)
 
 [class 37 - placeHolder](401/401-37.md)
 
