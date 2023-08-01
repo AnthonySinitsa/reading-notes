@@ -160,7 +160,7 @@ Link to my _Github Portfolio_: [https://github.com/AnthonySinitsa](https://githu
 
 [class 37 - react 1](401/401-37.md)
 
-[class 38 - placeHolder](401/401-38.md)
+[class 38 - react 2](401/401-38.md)
 
 [class 39 - placeHolder](401/401-39.md)
 
