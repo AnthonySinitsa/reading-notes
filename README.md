@@ -166,7 +166,7 @@ Link to my _Github Portfolio_: [https://github.com/AnthonySinitsa](https://githu
 
 [class 40 - placeHolder](401/401-40.md)
 
-[class 41 - placeHolder](401/401-41.md)
+[class 41 - react 4](401/401-41.md)
 
 [class 42 - placeHolder](401/401-42.md)
 
