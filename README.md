@@ -172,8 +172,10 @@ Link to my _Github Portfolio_: [https://github.com/AnthonySinitsa](https://githu
 
 [class 43 - placeHolder](401/401-43.md)
 
+[Ethics](401/401-ethics.md)
+
 [preRead](401/401-preRead.md)
 
-[terminalPractice](401/401-Terminal.md)
-
 [SQL](401/401-SQL.md)
+
+[terminalPractice](401/401-Terminal.md)
