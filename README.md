@@ -168,7 +168,7 @@ Link to my _Github Portfolio_: [https://github.com/AnthonySinitsa](https://githu
 
 [class 41 - react 4](401/401-41.md)
 
-[class 42 - placeHolder](401/401-42.md)
+[class 42 - Pythonisms](401/401-42.md)
 
 [class 43 - placeHolder](401/401-43.md)
 
