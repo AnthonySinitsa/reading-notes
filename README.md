@@ -174,6 +174,8 @@ Link to my _Github Portfolio_: [https://github.com/AnthonySinitsa](https://githu
 
 [Ethics](401/401-ethics.md)
 
+[OSS Contributions](401/401-OSS.md)
+
 [preRead](401/401-preRead.md)
 
 [SQL](401/401-SQL.md)
