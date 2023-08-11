@@ -183,3 +183,5 @@ Link to my _Github Portfolio_: [https://github.com/AnthonySinitsa](https://githu
 [terminalPractice](401/401-Terminal.md)
 
 [tag](401/401-tab.md)
+
+[schedule](401/401-schedule.md)
