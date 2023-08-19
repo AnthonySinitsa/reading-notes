@@ -185,3 +185,5 @@ Link to my _Github Portfolio_: [https://github.com/AnthonySinitsa](https://githu
 [tag](401/401-tab.md)
 
 [schedule](401/401-schedule.md)
+
+[Purpose](401/401-purpose.md)
